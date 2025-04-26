@@ -6,3 +6,4 @@ __pycache__/
 launch.json
 *.csv
 index_list.py
+bitcoin_trading_bot.log
